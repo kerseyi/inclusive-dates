@@ -17,7 +17,7 @@ var deploy      = require('gulp-gh-pages');
 
 
 var config = {
-  dist: 'dist/',
+  dist: 'docs/',
   src: 'src/',
   cssin: 'src/css/**/*.css',
   jsin: [
